@@ -21,18 +21,18 @@ export const electronics = [
 export const clothing = [
   {
     name: "Casual Shirt",
-    description: "Comfortable and stylist shirt for daily wear.",
+    description: "Comfortable and stylish shirt for daily wear.",
     price: "$29.99",
-    ratings: 4.3,
-    iamgeUrl:
+    rating: 4.3,
+    imageUrl:
       "https://images.unsplash.com/photo-1603252110971-b8a57087be18?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     name: "Jeans",
     description: "Slim fit jeans with stretch for comfort and style.",
     price: "$49.99",
-    ratings: 4.6,
-    iamgeUrl:
+    rating: 4.6,
+    imageUrl:
       "https://images.unsplash.com/photo-1479492591199-eb2492814e73?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
